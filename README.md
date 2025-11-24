@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 
 ## 🏆 Open Source Contributions
 
-I am a proud member of the **[Ant Design](https://github.com/ant-design/ant-design)** team.
+I am a member of the **[Ant Design](https://github.com/ant-design/ant-design)** team.
 
 - 🐜 **Ant Design**: An enterprise-class UI design language and React UI library.
 - 💻 **Contributions**: Actively involved in maintaining the repository, reviewing PRs, and improving the ecosystem.
