@@ -42,7 +42,3 @@ I am a member of the **[Ant Design](https://github.com/ant-design/ant-design)** 
 - 📧 **Email**: [1999iceweb@gmail.com](mailto:1999iceweb@gmail.com)
 - 📝 **Blog**: [https://juejin.cn/user/817692383915838](https://juejin.cn/user/817692383915838)
 - 💬 **WeChat**: iceweb19991014
-
-## ⚡ GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-ice&show_icons=true&theme=radical)
